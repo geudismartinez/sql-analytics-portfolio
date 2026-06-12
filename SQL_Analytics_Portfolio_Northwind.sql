@@ -2,7 +2,7 @@
 -- 📊 SQL ANALYTICS PORTFOLIO — NORTHWIND DATABASE
 -- 👤 Author: Geudis Martinez
 -- 🛠️  Tool: SQL Server (SSMS)
--- 📅 Year: 2025
+-- 📅 Year: 2026
 -- 🎯 Goal: Real Data Analyst skills — from exploration to advanced
 -- ============================================================
 -- 
